@@ -23,3 +23,16 @@ eurospw2017:
   year: 2017
   name: 2017 IEEE European Symposium on Security and Privacy Workshops
   url: https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7966454 
+etfa2016:
+  slug: ETFA
+  year: 2016
+  name: 21st IEEE Conference on Emerging Technologies and Factory Automation
+  url: https://www.etfa2016.org/
+esorics2018:
+  slug: ESORICS
+  year: 2018
+  name: 23rd European Symposium on Research in Computer Security
+  url: https://esorics2018.upc.edu/
+
+
+

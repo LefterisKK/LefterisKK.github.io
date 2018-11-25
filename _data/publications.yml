@@ -1,5 +1,14 @@
 ---
 -
+  title: 'Channels: Horizontal Scaling and Confidentiality on Permissioned Blockchains'
+  authors: androulaki-cachin-decaro-lefkok
+  venue: esorics2018
+  url: https://link.springer.com/chapter/10.1007/978-3-319-99073-6_6
+-
+  title: 'CALYPSO: Auditable Sharing of Private Data over Blockchains'
+  authors: lefkok-alp-siby-gailly-gasser-jovanovic-syta-bford
+  url: https://eprint.iacr.org/2018/209.pdf
+-
   title: 'Omniledger: A secure, scale-out, decentralized ledger via sharding'
   authors: lefkok-jovanovic-gasser-gailly-syta-bford
   venue: sp2018
@@ -24,10 +33,16 @@
   authors: lefkok-gasser-khoffi-jovanovic-gailly-bford
   url: https://infoscience.epfl.ch/record/220210/files/1_Managing_identities_bryan_ford_etc.pdf
 -
+  title: 'TRM-SIoT: A scalable hybrid trust & reputation model for the social internet of things'
+  authors: lefkok-voutyras-varvarigou
+  venue: etfa2016
+  url: https://ieeexplore.ieee.org/abstract/document/7733612
+-
   title: Enhancing bitcoin security and performance with strong consistency via collective signing
   authors: lefkok-jovanovic-gailly-khoffi-gasser-bford
   venue: sec2016
   url: https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_kokoris-kogias.pdf
+
 
 
 
