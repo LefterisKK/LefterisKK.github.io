@@ -4,72 +4,18 @@
   authors: lefkok-jovanovic-gailly-khoffi-gasser-bford
   venue: sec2016
   url: https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_kokoris-kogias.pdf
--
-  title: 'Improving Viterbi is Hard: Better Runtimes Imply Faster Clique Algorithms'
-  authors: backurs-tzamos
-  venue: icml2017
-  url: http://arxiv.org/abs/1607.04229
--
-  title: Faster Sublinear Algorithms via Conditional Sampling
-  authors: gouleakis-tzamos-zampetakis
-  venue: soda2017
-  url: http://arxiv.org/abs/1608.04759
--
-  title: Does Information Revelation Improve Revenue?
-  authors: daskalakis-papadimitriou-tzamos
-  venue: ec2016
-  url: static/pdfs/DPT16.pdf
--
-  title: Mechanism Design with Selective Verification
-  authors: fotakis-tzamos-zampetakis
-  venue: ec2016
-  url: http://arxiv.org/abs/1507.02301
--
-  title: Tight Hardness Results for Maximum Weight Rectangles
-  authors: backurs-dikkala-tzamos
-  venue: icalp2016 
-  url: http://arxiv.org/abs/1602.05837
--
-  title: Anonymous Auctions Maximizing Revenue
-  authors: tzamos-wilkens
-  venue: wine2016
-  url: http://arxiv.org/abs/1411.1379
--
-  title: A Size-Free CLT for Poisson Multinomials and its Applications
-  authors: daskalakis-de-kamath-tzamos
-  venue: stoc2016
-  url: http://arxiv.org/abs/1511.03641
--
-  title: 'On the Structure, Covering and Learning of Poisson Multinomial Distributions'
-  authors: daskalakis-kamath-tzamos
-  venue: focs2015
-  url: http://arxiv.org/abs/1504.08363
--
-  title: The Complexity of Optimal Mechanism Design
-  authors: daskalakis-deckelbaum-tzamos
-  venue: soda2014
-  url: http://arxiv.org/abs/1211.1703
--
-  title: Mechanism Design via Optimal Transport
-  authors: daskalakis-deckelbaum-tzamos
-  venue: ec2013
-  url: http://arxiv.org/abs/1503.01958
-  meta:
-    -
-      content: Best Paper and Best Student Paper Award
-      url: http://www.sigecom.org/awards.html
-      color: brown
-      icon: ★
--
-  title: Optimal Pricing is Hard
-  authors: daskalakis-deckelbaum-tzamos
-  venue: wine2012
-  url: http://arxiv.org/abs/1503.02516
--
-  title: 'Combinatorial Assortment Optimization'
-  authors: immorlica-lucier-jieming-syrgkanis
-  url: https://arxiv.org/abs/1711.02601
--
-  title: 'Capacitated Dynamic Programming: Faster Knapsack and Graph Algorithms'
-  authors: axiotis-tzamos
-  url: https://arxiv.org/abs/1802.06440
+#-
+#  title: Mechanism Design via Optimal Transport
+#  authors: daskalakis-deckelbaum-tzamos
+#  venue: ec2013
+#  url: http://arxiv.org/abs/1503.01958
+#  meta:
+#    -
+#      content: Best Paper and Best Student Paper Award
+#     url: http://www.sigecom.org/awards.html
+#      color: brown
+#      icon: ★
+#-
+#  title: 'Capacitated Dynamic Programming: Faster Knapsack and Graph Algorithms'
+#  authors: axiotis-tzamos
+#  url: https://arxiv.org/abs/1802.06440
