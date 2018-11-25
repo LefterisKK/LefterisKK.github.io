@@ -5,7 +5,7 @@ layout: default
 
 I am a graduate researcher at **[EPFL](https://people.epfl.ch/eleftherios.kokoriskogias?lang=en)** working on Decentralized Systems, Applied Cryptography and Distributed Computing. 
 
-I received my MEng in Electrical and Computer Engineering from the National Techinical University of Athens and worked as an undergraduate researcher at the Distributed Knowledge and Media Systems Group at NTUA.
+I received my MEng in Electrical and Computer Engineering from the **[National Techinical University of Athens](https://www.ece.ntua.gr/en)** and worked as an undergraduate researcher at the Distributed Knowledge and Media Systems Group.
 
 ## Research
 
@@ -16,8 +16,8 @@ I am working on building a scalable and robust infrastructure for the future dec
 ## Awards and Honors
 *   [IBM PhD Fellowship 2018-2020](https://actu.epfl.ch/news/a-second-ibm-fellowship-awarded-to-lefteris-koko-2/)
 *   [IBM PhD Fellowship 2017-2018](https://actu.epfl.ch/news/ibm-fellowship-given-to-lefteris-kokoris-kogias/)
-*   [EDIC PhD Fellowship EPFL 2015]
-*   [Thomaidion Award for Academic Excellence 2016 NTUA]
+*   EDIC PhD Fellowship EPFL 2015
+*   Thomaidion Award for Academic Excellence 2016 NTUA
 *   Programming competitions:
     *   2nd Place in Greece IEEE Xtreme 7.0
   

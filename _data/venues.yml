@@ -1,3 +1,8 @@
+sec2016:
+  slug: SEC
+  year: 2016
+  name: 25th USENIX Security Symposium
+  url: https://www.usenix.org/conference/usenixsecurity16
 focs2018:
   slug: FOCS
   year: 2018
