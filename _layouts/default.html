@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Christos Tzamos</title>
+  <meta name="description" content="{{site.description}}" />
+  <meta name="author" content="{{site.author}}">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="static/css/bootstrap.css">
+  <link rel="stylesheet" href="static/css/main.css">
+  <link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.3/jquery.min.js"></script>
+  <style>body {font-family:"Lato",HelveticaNeue,"Helvetica Neue",Helvetica,Arial,sans-serif; font-size: 15px; line-height: 1.8em;}</style>
+</head>
+<body>
+  <div class="container">
+    {% include info.html %}
+    {{content}}
+    
+    <hr>
+    
+    <div class="row">
+      <div class="col-xs-12" style="text-align: center;color: #999; font-size: 0.9em;">
+        {% if site.author != 'Christos Tzamos' %}<i style="vertical-align: middle">created by <a href="http://christos.me">Christos Tzamos</a>.</i>{% endif %}
+        <br/>
+        <br/>
+      </div>
+    </div>
+    
+  </div>
+  
+  <script type="text/javascript">
+    $(function() {
+      var email1 = $('#email').contents().filter(function() {return this.nodeType == 3;}).text().trim();
+      var email2 = $('#email > div').contents().filter(function() {return this.nodeType == 3;}).text().trim();
+      var phone1 = $('#phone').contents().filter(function() {return this.nodeType == 3;}).text().trim();
+      var phone2 = $('#phone > div').contents().filter(function() {return this.nodeType == 3;}).text().trim();
+      (function(h,u){$("#email").html( $('<a>').text(u+""+h).attr('href','mailto:'+u+""+h) );})(email1,email2);
+      (function(h,u){$("#phone").html( $('<a>').text(u+""+h).attr('href','tel:+1'+u.replace(/\D/g,'')+""+h.replace(/\D/g,'')) );})(phone1,phone2);
+      $('a').each(function() {
+        var url = $(this).attr('href');
+        if(url.substr(0,1) == '#') {
+          $(this).click(function() {
+            var scroll = 0;
+            if(url != '#') scroll = $( url ).offset().top;
+            $('html, body').animate({ scrollTop: scroll}, 1000);
+            return false;
+          });
+          return;
+        }
+        if(url.substr(0,4) == 'http') {
+          $(this).attr('target', '_blank');
+          $(this).click(function() {ga('send', 'event', url,'click');});
+        }
+      });      
+    });
+  </script>
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-78350912-1', 'auto');
+    ga('send', 'pageview');
+
+  </script>
+</body>
+</html>
