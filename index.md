@@ -3,28 +3,21 @@ layout: default
 ---
 ## About
 
-I am a post-doctoral researcher at **[Microsoft Research New England](https://www.microsoft.com/en-us/research/people/chtzamos/)** working on Mechanism Design, Algorithms and Machine Learning.
+I am a graduate researcher at **[EPFL](https://people.epfl.ch/eleftherios.kokoriskogias?lang=en)** working on Decentralized Systems, Applied Cryptography and Distributed Computing. 
 
-On August 2018, I will join the **[Theory of Computing group](http://research.cs.wisc.edu/areas/theory/)** at UW Madison as an Assistant Professor of Computer Science. 
-
-I completed my PhD in the Theory of Computation group at **[MIT](http://www.mit.edu/)** under the supervision of Costis Daskalakis. I grew up in Athens, Greece where I also had my undergraduate studies at the **[National Technical University of Athens](http://www.ntua.gr)**.
+I received my MEng in Electrical and Computer Engineering from the National Techinical University of Athens and worked as an undergraduate researcher at the Distributed Knowledge and Media Systems Group at NTUA.
 
 ## Research
 
-I am interested in Algorithmic Game Theory, Learning Theory as well as in the Design, Analysis and Theory of Algorithms.
-
+I am interested in increasing the digital trust of online information and processes, especially those that impact the physical world.
+I am working on building a scalable and robust infrastructure for the future decentralised internet focusing on scalable blockchain systems, bias-resistant decentralised randomness generation, secure software update dispersion and novel applications of threshold cryptography and distributed consensus.
 {% include bibliography.html %}
 
 ## Awards and Honors
-*   [George M. Sprowls Award for the best Computer Science PhD thesis in the EECS Department of MIT (2017)](https://www.eecs.mit.edu/news-events/announcements/eecs-presents-awards-outstanding-phd-and-sm-theses-0)
-*   [Testing the Limits Award at 2017 Conference on Learning Theory (COLT 2017)](http://www.learningtheory.org/colt2017/)
-*   [Simons Award for Graduate Students in Theoretical Computer Science (2014-2016)](https://www.simonsfoundation.org/funding/funding-opportunities/mathematics-physical-sciences/simons-award-for-graduate-students-in-theoretical-computer-science/2014-awardees/)
-*   [Best Paper and Best Student Paper Award in the 14th Conference on Economics and Computation (EC 2013)](http://www.sigecom.org/awards.html)
-*   [Kanellakis Fellowship for EECS students of MIT (2011-2012)](https://www.eecs.mit.edu/academics-admissions/graduate-program/eecs-graduate-student-fellowship-awards-news/kanellakis)
-*   Programming/Mathematics competitions:
-    *   World Finalist in ACM International Collegiate Programming Contest (2012)
-    *   Silver Medal in International Mathematics Competition for University Students (2010)
-    *   First Place in Norwegian IDI Open Programming Competition (2009)
-    *   Silver Medal in International Olympiad in Informatics (2006)
-    *   Gold Medal in Balkan Olympiad in Informatics (2006)
+*   [IBM PhD Fellowship 2018-2020](https://actu.epfl.ch/news/a-second-ibm-fellowship-awarded-to-lefteris-koko-2/)
+*   [IBM PhD Fellowship 2017-2018](https://actu.epfl.ch/news/ibm-fellowship-given-to-lefteris-kokoris-kogias/)
+*   [EDIC PhD Fellowship EPFL 2015]
+*   [Thomaidion Award for Academic Excellence 2016 NTUA]
+*   Programming competitions:
+    *   2nd Place in Greece IEEE Xtreme 7.0
   
