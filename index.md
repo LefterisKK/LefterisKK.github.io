@@ -27,10 +27,4 @@ I am interested in Algorithmic Game Theory, Learning Theory as well as in the De
     *   First Place in Norwegian IDI Open Programming Competition (2009)
     *   Silver Medal in International Olympiad in Informatics (2006)
     *   Gold Medal in Balkan Olympiad in Informatics (2006)
-    
-## Miscellaneous
-
-*   [Revenue-optimal mechanisms for Beta distributed items.](/betas)
-*   [The EM algorithm for Naive-Bayes.](/em)
-*   [A collection of hard riddles and puzzles.](/puzzles)
-*   [A script generating random passwords.](/pwd)
+  
