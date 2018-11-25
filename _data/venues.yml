@@ -3,3 +3,18 @@ sec2016:
   year: 2016
   name: 25th USENIX Security Symposium
   url: https://www.usenix.org/conference/usenixsecurity16
+sec2017:
+  slug: SEC
+  year: 2017
+  name: 26th USENIX Security Symposium
+  url: https://www.usenix.org/conference/usenixsecurity17
+sp2017:
+  slug: S&P
+  year: 2017
+  name: 38th IEEE Symposium on Security and Privacy
+  url: https://www.ieee-security.org/TC/SP2017/
+sp2018:
+  slug: S&P
+  year: 2018
+  name: 39th IEEE Symposium on Security and Privacy
+  url: https://www.ieee-security.org/TC/SP2018/
