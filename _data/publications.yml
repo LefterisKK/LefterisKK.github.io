@@ -5,35 +5,6 @@
   venue: sec2016
   url: https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_kokoris-kogias.pdf
 -
-  title: 'Certified Computation from Unreliable Datasets'
-  authors: gouleakis-tzamos-zampetakis
-  venue: colt2018
-  url: https://arxiv.org/abs/1709.03926
--
-  title: 'Design and Dynamic Pricing of Vertically Differentiated Inventories'
-  authors: stamatopoulos-tzamos
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2862490
-  journal: "Management Science (2018) - <i>to appear</i>"
--
-  title: A Converse to Banach’s Fixed Point Theorem and its CLS Completeness
-  authors: daskalakis-tzamos-zampetakis
-  url: https://arxiv.org/abs/1702.07339
-  venue: stoc2018
--
-  title: Bootstrapping EM via Power EM and Convergence in the Naive Bayes Model
-  authors: daskalakis-tzamos-zampetakis
-  venue: aistats2018
--
-  title: Ten Steps of EM Suffice for Mixtures of Two Gaussians
-  authors: daskalakis-tzamos-zampetakis
-  url: https://arxiv.org/abs/1609.00368
-  venue: colt2017
-  meta:
-    -
-      content: "Preliminary version in NIPS 2016 Workshop on Non-Convex Optimization for Machine Learning."
-      url: https://sites.google.com/site/nonconvexnips2016/
-      color: black
--
   title: 'Improving Viterbi is Hard: Better Runtimes Imply Faster Clique Algorithms'
   authors: backurs-tzamos
   venue: icml2017
@@ -74,18 +45,6 @@
   venue: focs2015
   url: http://arxiv.org/abs/1504.08363
 -
-  title: Strong Duality for a Multiple-Good Monopolist
-  authors: daskalakis-deckelbaum-tzamos
-  venue: ec2015
-  url: http://arxiv.org/abs/1409.4150
-  journal: "Econometrica 85(3): 735-767 (2017)"
--
-  title: Efficient Money Burning in General Domains
-  authors: fotakis-tsipras-tzamos-zampetakis
-  venue: sagt2015
-  url: static/pdfs/FTTZ15.pdf
-  journal: "Theory of Computing Systems. <i>Special Issue for SAGT 2015. Invited.</i>"
--
   title: The Complexity of Optimal Mechanism Design
   authors: daskalakis-deckelbaum-tzamos
   venue: soda2014
@@ -102,28 +61,10 @@
       color: brown
       icon: ★
 -
-  title: Strategyproof Facility Location for Concave Cost Functions
-  authors: fotakis-tzamos
-  venue: ec2013
-  url: http://arxiv.org/abs/1305.3333
-  journal: "Algorithmica 76(1): 143-167 (2016)"
--
-  title: On the Power of Deterministic Mechanisms for Facility Location Games
-  authors: fotakis-tzamos
-  venue: icalp2013
-  url: http://arxiv.org/abs/1207.0935
-  journal: "ACM Transactions on Economics and Computation 2(4): 15:1-15:37 (2014)"
--
   title: Optimal Pricing is Hard
   authors: daskalakis-deckelbaum-tzamos
   venue: wine2012
   url: http://arxiv.org/abs/1503.02516
--
-  title: Winner-Imposing Strategyproof Mechanisms for Multiple Facility Location Games
-  authors: fotakis-tzamos
-  venue: wine2010
-  url: http://www.softlab.ntua.gr/~fotakis/data/wine10.pdf
-  journal: "Theoretical Computer Science 472: 90-103 (2013)"
 -
   title: 'Combinatorial Assortment Optimization'
   authors: immorlica-lucier-jieming-syrgkanis
