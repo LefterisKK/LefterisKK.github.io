@@ -18,3 +18,8 @@ sp2018:
   year: 2018
   name: 39th IEEE Symposium on Security and Privacy
   url: https://www.ieee-security.org/TC/SP2018/
+eurospw2017:
+  slug: EuroS&PW
+  year: 2017
+  name: 2017 IEEE European Symposium on Security and Privacy Workshops
+  url: https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7966454 

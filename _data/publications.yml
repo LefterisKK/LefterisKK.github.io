@@ -1,25 +1,37 @@
 ---
 -
-  title: Enhancing bitcoin security and performance with strong consistency via collective signing
-  authors: lefkok-jovanovic-gailly-khoffi-gasser-bford
-  venue: sec2016
-  url: https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_kokoris-kogias.pdf
+  title: 'Omniledger: A secure, scale-out, decentralized ledger via sharding'
+  authors: lefkok-jovanovic-gasser-gailly-syta-bford
+  venue: sp2018
+  url: https://csdl.computer.org/csdl/proceedings/sp/2018/4353/00/435301a583-abs.html
+-
+  title: 'CHAINIAC: Proactive Software-Update Transparency via Collectively Signed Skipchains and Verified Builds'
+  authors: nikitin-lefkok-jovanovic-gailly-gasser-cappos-bford
+  venue: sec2017
+  url: https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-nikitin.pdf
 -
   title: Scalable bias-resistant distributed randomness
   authors: syta-jovanovic-lefkok-gailly-gasser-khoffi-fischer-bford
   venue: sp2017
   url: https://ieeexplore.ieee.org/abstract/document/7958592/
 -
-  title: Omniledger. A secure, scale-out, decentralized ledger via sharding
-  authors: lefkok-jovanovic-gasser-gailly-syta-bford
-  venue: sp2018
-  url: https://csdl.computer.org/csdl/proceedings/sp/2018/4353/00/435301a583-abs.html
+  title: 'Proof-of-Personhood: Redemocratizing Permissionless Cryptocurrencies'
+  authors: borge-lefkok-jovanovic-gasser-gailly-bford
+  venue: eurospw2017
+  url: https://ieeexplore.ieee.org/abstract/document/7966966
 -
-  title: CHAINIAC. Proactive Software-Update Transparency via Collectively Signed Skipchains and Verified Builds
-  authors: nikitin-lefkok-jovanovic-gailly-gasser-cappos-bford
-  venue: sec2017
-  url: https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-nikitin.pdf
-#-
+  title: Managing identities using blockchains and CoSi
+  authors: lefkok-gasser-khoffi-jovanovic-gailly-bford
+  url: https://infoscience.epfl.ch/record/220210/files/1_Managing_identities_bryan_ford_etc.pdf
+-
+  title: Enhancing bitcoin security and performance with strong consistency via collective signing
+  authors: lefkok-jovanovic-gailly-khoffi-gasser-bford
+  venue: sec2016
+  url: https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_kokoris-kogias.pdf
+
+
+
+
 #  title: Mechanism Design via Optimal Transport
 #  authors: daskalakis-deckelbaum-tzamos
 #  venue: ec2013
