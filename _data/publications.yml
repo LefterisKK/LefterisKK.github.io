@@ -18,27 +18,16 @@
       content: Deployed in ByzGen
       url: https://byzgen.com/our-technology/
       color: brown
-  meta:
-  -
-      content: Deployed in Data Protection in Personalized Health Project
-      url: https://dpph.ch/about/architecture/
-      color: brown
-  meta:
-  -
-      content: Deployed in Securing the Data Science Knowledge Graph
-      url: https://datascience.ch/project/security-and-privacy-of-the-data-science-knowledge-graph-securekg/
-      color: brown
 -
   title: 'Omniledger: A secure, scale-out, decentralized ledger via sharding'
   authors: lefkok-jovanovic-gasser-gailly-syta-bford
   venue: sp2018
   url: https://csdl.computer.org/csdl/proceedings/sp/2018/4353/00/435301a583-abs.html
   meta:
+-
       content: Part of Harmony Blockchain
       url: https://harmony.one/technology/
-  meta:
-      content: IOST Blockchain Technology
-      url: https://iost.io/
+      color: brown
 -
   title: 'CHAINIAC: Proactive Software-Update Transparency via Collectively Signed Skipchains and Verified Builds'
   authors: nikitin-lefkok-jovanovic-gailly-gasser-cappos-bford
@@ -46,12 +35,9 @@
   url: https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-nikitin.pdf
   meta:
   -
-      content: Agora uses Skipchains
-      url: https://www.agora.vote/technology
-  meta:
-  -
       content: EPFL E-Voting uses Skipchains
       url: https://actu.epfl.ch/news/epfl-uses-blockchain-technology-to-secure-e-voting/
+      color: brown
 -
   title: Scalable bias-resistant distributed randomness
   authors: syta-jovanovic-lefkok-gailly-gasser-khoffi-fischer-bford
@@ -77,12 +63,10 @@
   venue: sec2016
   url: https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_kokoris-kogias.pdf
   meta:
-  -
-      content: Part of Zilliqa Blockchain
-      url: https://zilliqa.com/
-  meta:
+- 
       content: Consensus algorithm of Cypherium Blockchain
       url: https://cypherium.io/
+      color: brown
 
 
 
