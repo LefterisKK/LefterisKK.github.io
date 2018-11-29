@@ -47,6 +47,11 @@
   authors: syta-jovanovic-lefkok-gailly-gasser-khoffi-fischer-bford
   venue: sp2017
   url: https://ieeexplore.ieee.org/abstract/document/7958592/
+  -
+      content: Part of IOST
+      url: https://iost.io/
+      color: brown
+      icon: ★
 -
   title: 'Proof-of-Personhood: Redemocratizing Permissionless Cryptocurrencies'
   authors: borge-lefkok-jovanovic-gasser-gailly-bford
