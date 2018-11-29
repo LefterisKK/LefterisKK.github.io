@@ -9,6 +9,7 @@
       content: Deployed in Hyperledger Fabric
       url: https://hyperledger-fabric.readthedocs.io/en/release-1.3/channels.html
       color: brown
+      icon: ★
 -
   title: 'CALYPSO: Auditable Sharing of Private Data over Blockchains'
   authors: lefkok-alp-siby-gailly-gasser-jovanovic-syta-bford
@@ -18,6 +19,7 @@
       content: Deployed in ByzGen
       url: https://byzgen.com/our-technology/
       color: brown
+      icon: ★
 -
   title: 'Omniledger: A secure, scale-out, decentralized ledger via sharding'
   authors: lefkok-jovanovic-gasser-gailly-syta-bford
@@ -28,6 +30,7 @@
       content: Part of Harmony Blockchain
       url: https://harmony.one/technology/
       color: brown
+      icon: ★
 -
   title: 'CHAINIAC: Proactive Software-Update Transparency via Collectively Signed Skipchains and Verified Builds'
   authors: nikitin-lefkok-jovanovic-gailly-gasser-cappos-bford
@@ -38,6 +41,8 @@
       content: EPFL E-Voting uses Skipchains
       url: https://actu.epfl.ch/news/epfl-uses-blockchain-technology-to-secure-e-voting/
       color: brown
+      icon: ★
+
 -
   title: Scalable bias-resistant distributed randomness
   authors: syta-jovanovic-lefkok-gailly-gasser-khoffi-fischer-bford
@@ -67,6 +72,7 @@
       content: Consensus algorithm of Cypherium Blockchain
       url: https://cypherium.io/
       color: brown
+      icon: ★
 
 
 
