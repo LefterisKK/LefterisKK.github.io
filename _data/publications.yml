@@ -8,8 +8,6 @@
   -
       content: Deployed in Hyperledger Fabric
       url: https://hyperledger-fabric.readthedocs.io/en/release-1.3/channels.html
-      color: brown
-      icon: ★
 -
   title: 'CALYPSO: Auditable Sharing of Private Data over Blockchains'
   authors: lefkok-alp-siby-gailly-gasser-jovanovic-syta-bford
@@ -17,36 +15,24 @@
   meta:
       content: Deployed in ByzGen
       url: https://byzgen.com/our-technology/
-      color: brown
-      icon: ★
   meta:
       content: Deployed in Data Protection in Personalized Health Project
       url: https://dpph.ch/about/architecture/
-      color: brown
-      icon: ★
 
   meta:
       content: Deployed in Securing the Data Science Knowledge Graph
       url: https://datascience.ch/project/security-and-privacy-of-the-data-science-knowledge-graph-securekg/
-      color: brown
-      icon: ★
 -
   title: 'Omniledger: A secure, scale-out, decentralized ledger via sharding'
   authors: lefkok-jovanovic-gasser-gailly-syta-bford
   venue: sp2018
   url: https://csdl.computer.org/csdl/proceedings/sp/2018/4353/00/435301a583-abs.html
   meta:
-  -
       content: Part of Harmony Blockchain
       url: https://harmony.one/technology/
-      color: brown
-      icon: ★
   meta:
-  -
       content: IOST Blockchain Technology
       url: https://iost.io/
-      color: brown
-      icon: ★
 -
   title: 'CHAINIAC: Proactive Software-Update Transparency via Collectively Signed Skipchains and Verified Builds'
   authors: nikitin-lefkok-jovanovic-gailly-gasser-cappos-bford
@@ -56,14 +42,10 @@
   -
       content: Agora uses Skipchains
       url: https://www.agora.vote/technology
-      color: brown
-      icon: ★
   meta:
   -
       content: EPFL E-Voting uses Skipchains
       url: https://actu.epfl.ch/news/epfl-uses-blockchain-technology-to-secure-e-voting/
-      color: brown
-      icon: ★
 -
   title: Scalable bias-resistant distributed randomness
   authors: syta-jovanovic-lefkok-gailly-gasser-khoffi-fischer-bford
@@ -92,14 +74,9 @@
   -
       content: Part of Zilliqa Blockchain
       url: https://zilliqa.com/
-      color: brown
-      icon: ★
   meta:
-  -
       content: Consensus algorithm of Cypherium Blockchain
       url: https://cypherium.io/
-      color: brown
-      icon: ★
 
 
 
