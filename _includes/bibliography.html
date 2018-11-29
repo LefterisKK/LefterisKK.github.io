@@ -31,7 +31,6 @@
     {% for meta in publication.meta %}
     <br/>
     <span style="color: {{meta.color | default: 'black'}};">{{meta.icon | default: '-'}} <a href="{{meta.url | default: '#'}}">{{meta.content}}</a></span>
-    <br/>
     {% endfor %}
   </li>
 {% endif %}
@@ -69,7 +68,6 @@
       {% endfor %}
     </div>
     {% endif %}
-    <br/>
     {{publication.notes}}
     {% for meta in publication.meta %}
     <br/>
