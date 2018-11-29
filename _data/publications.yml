@@ -47,6 +47,7 @@
   authors: syta-jovanovic-lefkok-gailly-gasser-khoffi-fischer-bford
   venue: sp2017
   url: https://ieeexplore.ieee.org/abstract/document/7958592/
+  meta:
   -
       content: Part of IOST
       url: https://iost.io/
@@ -57,6 +58,7 @@
   authors: borge-lefkok-jovanovic-gasser-gailly-bford
   venue: eurospw2017
   url: https://ieeexplore.ieee.org/abstract/document/7966966
+  meta:
   -
       content: Stay Tuned!
       url: http://personhood.online/
@@ -66,6 +68,7 @@
   title: Managing identities using blockchains and CoSi
   authors: lefkok-gasser-khoffi-jovanovic-gailly-bford
   url: https://infoscience.epfl.ch/record/220210/files/1_Managing_identities_bryan_ford_etc.pdf
+  meta:
   -
       content: Prelimary Version of Skipchains
 -
