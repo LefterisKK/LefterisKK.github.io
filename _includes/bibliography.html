@@ -10,14 +10,9 @@
 
     {% if pubauthors.size > 1 %}
     <div style="display: inline-block">
-    with
       {% assign lastindex = pubauthors.size %}
       {% assign printand = false %}
-      {% if pubauthors.last == site.username %}
-        {% assign lastindex = pubauthors.size | minus: 1 %}
-      {% endif %}
       {% for pubauthor in pubauthors %}
-        {% if pubauthor == site.username %}{% continue %}{% endif %}
         {% assign author = site.data.authors[pubauthor] %}
         
         {% if printand %}
