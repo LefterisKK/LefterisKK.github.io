@@ -20,13 +20,10 @@
       url: https://byzgen.com/our-technology/
       color: brown
       icon: ★
-  meta:
-  -
       content: Deployed in Data Protection in Personalized Health Project
       url: https://dpph.ch/about/architecture/
       color: brown
       icon: ★
-
   meta:
   -
       content: Deployed in Securing the Data Science Knowledge Graph
