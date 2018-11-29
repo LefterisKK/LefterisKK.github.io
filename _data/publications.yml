@@ -26,7 +26,7 @@
   venue: sp2018
   url: https://csdl.computer.org/csdl/proceedings/sp/2018/4353/00/435301a583-abs.html
   meta:
--
+  -
       content: Part of Harmony Blockchain
       url: https://harmony.one/technology/
       color: brown
@@ -42,7 +42,6 @@
       url: https://actu.epfl.ch/news/epfl-uses-blockchain-technology-to-secure-e-voting/
       color: brown
       icon: ★
-
 -
   title: Scalable bias-resistant distributed randomness
   authors: syta-jovanovic-lefkok-gailly-gasser-khoffi-fischer-bford
@@ -68,9 +67,9 @@
   venue: sec2016
   url: https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_kokoris-kogias.pdf
   meta:
-- 
-      content: Consensus algorithm of Cypherium Blockchain
-      url: https://cypherium.io/
+  -
+      content: Part of Zilliqa Blockchain
+      url: https://zilliqa.com/
       color: brown
       icon: ★
 
