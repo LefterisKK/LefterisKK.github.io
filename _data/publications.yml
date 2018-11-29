@@ -57,10 +57,17 @@
   authors: borge-lefkok-jovanovic-gasser-gailly-bford
   venue: eurospw2017
   url: https://ieeexplore.ieee.org/abstract/document/7966966
+  -
+      content: Stay Tuned!
+      url: http://personhood.online/
+      color: brown
+      icon: ★
 -
   title: Managing identities using blockchains and CoSi
   authors: lefkok-gasser-khoffi-jovanovic-gailly-bford
   url: https://infoscience.epfl.ch/record/220210/files/1_Managing_identities_bryan_ford_etc.pdf
+  -
+      content: Prelimary Version of Skipchains
 -
   title: 'TRM-SIoT: A scalable hybrid trust & reputation model for the social internet of things'
   authors: lefkok-voutyras-varvarigou
