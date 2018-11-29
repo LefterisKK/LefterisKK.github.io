@@ -15,17 +15,17 @@
   authors: lefkok-alp-siby-gailly-gasser-jovanovic-syta-bford
   url: https://eprint.iacr.org/2018/209.pdf
   meta:
-  -
       content: Deployed in ByzGen
       url: https://byzgen.com/our-technology/
       color: brown
       icon: ★
+  meta:
       content: Deployed in Data Protection in Personalized Health Project
       url: https://dpph.ch/about/architecture/
       color: brown
       icon: ★
+
   meta:
-  -
       content: Deployed in Securing the Data Science Knowledge Graph
       url: https://datascience.ch/project/security-and-privacy-of-the-data-science-knowledge-graph-securekg/
       color: brown
