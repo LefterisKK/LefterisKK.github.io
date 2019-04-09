@@ -34,7 +34,7 @@ esorics2018:
   name: 23rd European Symposium on Research in Computer Security
   url: https://esorics2018.upc.edu/
 hotos2019:
-  slug: HotOs
+  slug: HotOS
   year: 2019
   name: 17th Wokrshop on Hot Topics in Operating Systems
   url: http://hotos19.sigops.org/
