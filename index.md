@@ -7,7 +7,7 @@ I am a graduate researcher at **[EPFL](https://people.epfl.ch/eleftherios.kokori
 
 I received my MEng in Electrical and Computer Engineering from the **[National Technical University of Athens](https://www.ece.ntua.gr/en)** and worked as an undergraduate researcher at the Distributed Knowledge and Media Systems Group.
 
-I am a member of the **[Initiative for Cryptocurrencies and Contracts (IC3)](https://www.initc3.org/)**, a scientific advisor to the **[DFINITY](https://dfinity.org/)** project and an **[IBM PhD Fellow](http://www.research.ibm.com/university/awards/2018_phd_fellowship_awards.shtml)**
+I am a member of the **[Initiative for Cryptocurrencies and Contracts (IC3)](https://www.initc3.org/)** and an **[IBM PhD Fellow](http://www.research.ibm.com/university/awards/2018_phd_fellowship_awards.shtml)**
 
 ## Research
 

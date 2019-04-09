@@ -1,5 +1,9 @@
 ---
 -
+  title: ' Rethinking General-Purpose Decentralized Computing'
+  authors: alpeq-lefkokeq-fragkouli-ford
+  venue: hotos2019
+-
   title: 'Channels: Horizontal Scaling and Confidentiality on Permissioned Blockchains'
   authors: androulaki-cachin-decaro-lefkok
   venue: esorics2018
