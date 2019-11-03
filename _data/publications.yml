@@ -8,12 +8,12 @@
   authors: zeta-lefkok-wattenhofer
   url: https://arxiv.org/abs/1910.10434
 -
-  title: 'Brick: Asynchronous State Channels' (Alphabetical)
+  title: 'Brick: Asynchronous State Channels (Alphabetical)'  
   authors: zeta-lefkok-wattenhofer
   url: https://arxiv.org/abs/1905.11360
 -
   title: 'Robust and Scalable Consensus for Sharded Distributed Ledgers'
-  authors: lefkok
+  authors: lefkok-
   url: https://eprint.iacr.org/2019/676
 -
   title: 'Bootstrapping Consensus Without Trusted Setup: Fully Asynchronous Distributed Key Generation'
