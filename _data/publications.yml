@@ -12,17 +12,9 @@
   authors: zeta-lefkok-wattenhofer
   url: https://arxiv.org/abs/1905.11360
 -
-  title: ' Sok: Communication across distributed ledgers'
-  authors: zamyatin-musalbas-zindros-lefkok-morenosanchez-kiayias-knottenbelt
-  url: https://eprint.iacr.org/2019/1128
--
   title: 'Robust and Scalable Consensus for Sharded Distributed Ledgers'
   authors: lefkok
   url: https://eprint.iacr.org/2019/676
- - 
-  title: 'Bootstrapping Consensus Without Trusted Setup: Fully Asynchronous Distributed Key Generation'
-  authors: lefkok-malkhi-sasha
-  url: https://eprint.iacr.org/2019/1015
 -
   title: 'Channels: Horizontal Scaling and Confidentiality on Permissioned Blockchains (Alphabetical) ' 
   authors: androulaki-cachin-decaro-lefkok
