@@ -4,7 +4,7 @@
   authors: alpeq-lefkokeq-fragkouli-bford
   venue: hotos2019
 -
-  title: 'Channels: Horizontal Scaling and Confidentiality on Permissioned Blockchains' (Alphabetical) 
+  title: 'Channels: Horizontal Scaling and Confidentiality on Permissioned Blockchains (Alphabetical) ' 
   authors: androulaki-cachin-decaro-lefkok
   venue: esorics2018
   url: https://link.springer.com/chapter/10.1007/978-3-319-99073-6_6
@@ -15,11 +15,11 @@
       color: brown
       icon: ★
 -
-  title: ' Divide and Scale: Formalization of Distributed Ledger Sharding Protocols' (Alphabetical) 
+  title: ' Divide and Scale: Formalization of Distributed Ledger Sharding Protocols (Alphabetical) ' 
   authors: zeta-lefkokeq-wattenhofer
   url: https://arxiv.org/abs/1910.10434
 -
-  title: 'Brick: Asynchronous State Channels' (Alphabetical) 
+  title: 'Brick: Asynchronous State Channels (Alphabetical) '  
   authors: zeta-lefkokeq-wattenhofer
   url: https://arxiv.org/abs/1905.11360
 -
