@@ -4,6 +4,10 @@
   authors: alpeq-lefkokeq-fragkouli-bford
   venue: hotos2019
 -
+  title: ' Divide and Scale: Formalization of Distributed Ledger Sharding Protocols (Alphabetical) ' 
+  authors: zeta-lefkokeq-wattenhofer
+  url: https://arxiv.org/abs/1910.10434
+-
   title: 'Channels: Horizontal Scaling and Confidentiality on Permissioned Blockchains (Alphabetical) ' 
   authors: androulaki-cachin-decaro-lefkok
   venue: esorics2018
