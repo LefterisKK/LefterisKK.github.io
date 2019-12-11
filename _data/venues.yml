@@ -38,6 +38,11 @@ hotos2019:
   year: 2019
   name: 17th Wokrshop on Hot Topics in Operating Systems
   url: http://hotos19.sigops.org/
+HPETs2016:
+  slug: HotPETs
+  year: 2016
+  name: 9th Workshop on Hot Topics in Privacy Enhancing Technologies
+  url: https://petsymposium.org/2016/spw-mirror/pets-2016/hotpets/
 
 
 

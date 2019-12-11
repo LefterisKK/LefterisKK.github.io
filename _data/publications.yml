@@ -40,8 +40,8 @@
   url: https://eprint.iacr.org/2018/209.pdf
   meta:
   -
-      content: Deployed in ByzGen
-      url: https://byzgen.com/our-technology/
+      content: Used by Swisscom
+      url: https://research.swisscom.ai/blog/blockchain-car-maintenance-history/
       color: brown
       icon: ★
 -
@@ -92,6 +92,7 @@
   title: Managing identities using blockchains and CoSi
   authors: lefkok-gasser-khoffi-jovanovic-gailly-bford
   url: https://infoscience.epfl.ch/record/220210/files/1_Managing_identities_bryan_ford_etc.pdf
+  venue: HPETs2016 
   meta:
   -
       content: Prelimary Version of Skipchains
@@ -107,8 +108,8 @@
   url: https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_kokoris-kogias.pdf
   meta:
   -
-      content: Part of Zilliqa Blockchain
-      url: https://zilliqa.com/
+      content: The Backbone of Cypherium
+      url: https://cypherium.io/
       color: brown
       icon: ★
 
