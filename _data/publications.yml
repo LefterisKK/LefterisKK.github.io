@@ -19,7 +19,7 @@
       icon: ★
 -
   title: 'Robust and Scalable Consensus for Sharded Distributed Ledgers'
-  authors: lefkok
+  authors: lefkok-empty
   url: https://eprint.iacr.org/2019/676
 -
   title: 'Bootstrapping Consensus Without Trusted Setup: Fully Asynchronous Distributed Key Generation'
