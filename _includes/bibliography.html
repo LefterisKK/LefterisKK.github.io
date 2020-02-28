@@ -8,7 +8,7 @@
   <li>
     <strong>“<a href="{{publication.url | default: '#'}}">{{publication.title}}</a>”</strong>
 
-    {% if pubauthors.size > 1 %}
+    {% if pubauthors.size > 0 %}
     <div style="display: inline-block">
       {% assign lastindex = pubauthors.size %}
       {% assign printand = false %}
@@ -50,7 +50,7 @@
   <li>
     <strong>“<a href="{{publication.url | default: '#'}}">{{publication.title}}</a>”</strong>
  
-    {% if pubauthors.size > 1 %}
+    {% if pubauthors.size > 0 %}
     <div style="display: inline-block">
       {% assign lastindex = pubauthors.size %}
       {% assign printand = false %}

@@ -11,9 +11,15 @@
   title: 'Brick: Asynchronous State Channels (Alphabetical)'  
   authors: zeta-lefkok-wattenhofer
   url: https://arxiv.org/abs/1905.11360
+    meta:
+  -
+      content: Presented at the Stanford Blockchain Confrence 
+      url: https://cbr.stanford.edu/sbc20/
+      color: brown
+      icon: ★
 -
   title: 'Robust and Scalable Consensus for Sharded Distributed Ledgers'
-  authors: lefkok-empty
+  authors: lefkok
   url: https://eprint.iacr.org/2019/676
 -
   title: 'Bootstrapping Consensus Without Trusted Setup: Fully Asynchronous Distributed Key Generation'
