@@ -1,5 +1,10 @@
 ---
 -
+  title: 'Asynchronous Distributed Key Generation for Computationally- Secure Randomness, Consensus, and Threshold Signatures.'
+  authors: lefkok-malkhi-sasha
+  venue: ccs2020
+  url: https://eprint.iacr.org/2019/1015
+-
   title: ' Rethinking General-Purpose Decentralized Computing'
   authors: alpeq-lefkokeq-fragkouli-bford
   venue: hotos2019
@@ -21,11 +26,6 @@
   title: 'Robust and Scalable Consensus for Sharded Distributed Ledgers'
   authors: lefkok-empty
   url: https://eprint.iacr.org/2019/676
--
-  title: 'Asynchronous Distributed Key Generation for Computationally- Secure Randomness, Consensus, and Threshold Signatures.'
-  authors: lefkok-malkhi-sasha
-  url: https://eprint.iacr.org/2019/1015
-  venue: ccs2020
 -
   title: ' Sok: Communication across distributed ledgers'
   authors: zamyatin-musalbas-zindros-lefkok-morenosanchez-kiayias-knottenbelt

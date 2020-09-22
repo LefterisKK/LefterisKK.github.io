@@ -4,7 +4,7 @@ layout: default
 ## About
 
 I am a Research Scientist at **[Novi](https://ch.linkedin.com/in/eleftherios-kokoris-kogias-52836274)** working on Decentralized Systems, Applied Cryptography and Distributed Computing. 
-I will be joininig IST Austria as an Assistant Professor in September 2021 (positions available).
+I will be joininig **[IST Austria](https://ist.ac.at/en/research/kokoris-group/)** as an Assistant Professor in September 2021 (positions available at all levels).
 
 I received my Ph.D. in Computer Science from  **[EPFL](https://people.epfl.ch/eleftherios.kokoriskogias?lang=en)**, 
 and my MEng in Electrical and Computer Engineering from the **[National Technical University of Athens](https://www.ece.ntua.gr/en)**.
