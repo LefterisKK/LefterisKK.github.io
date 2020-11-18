@@ -48,7 +48,7 @@ ccs2020:
   year: 2020
   name: 27th ACM Conference on Computer and Communications Security
   url: https://www.sigsac.org/ccs/CCS2020/index.html#
-  vldb2021:
+vldb2021:
   slug: VLDB
   year: 2021
   name: 47th International Conference on Very Large Data Bases
