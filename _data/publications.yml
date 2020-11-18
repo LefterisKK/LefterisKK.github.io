@@ -1,5 +1,16 @@
 ---
 -
+  title: 'CALYPSO: Private Data Management for Decentralized Ledgers'
+  authors: lefkok-alp-gasser-jovanovic-syta-bford
+  venue: vld2021
+  url: https://eprint.iacr.org/2018/209.pdf
+  meta:
+  -
+      content: Used by Swisscom
+      url: https://research.swisscom.ai/blog/blockchain-car-maintenance-history/
+      color: brown
+      icon: ★
+-
   title: 'Asynchronous Distributed Key Generation for Computationally- Secure Randomness, Consensus, and Threshold Signatures.'
   authors: lefkok-malkhi-sasha
   venue: ccs2020
@@ -39,16 +50,6 @@
   -
       content: Deployed in Hyperledger Fabric
       url: https://hyperledger-fabric.readthedocs.io/en/release-1.3/channels.html
-      color: brown
-      icon: ★
--
-  title: 'CALYPSO: Auditable Sharing of Private Data over Blockchains'
-  authors: lefkok-alp-siby-gailly-gasser-jovanovic-syta-bford
-  url: https://eprint.iacr.org/2018/209.pdf
-  meta:
-  -
-      content: Used by Swisscom
-      url: https://research.swisscom.ai/blog/blockchain-car-maintenance-history/
       color: brown
       icon: ★
 -
