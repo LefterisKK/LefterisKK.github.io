@@ -16,11 +16,6 @@
   venue: fc2021
   url: https://arxiv.org/abs/1905.11360
   meta:
-  -
-      content: Presented at the Stanford Blockchain Confrence 
-      url: https://cbr.stanford.edu/sbc20/
-      color: brown
-      icon: ★
 -
   title: ' Sok: Communication across distributed ledgers'
   authors: zamyatin-musalbas-zindros-lefkok-morenosanchez-kiayias-knottenbelt
@@ -89,11 +84,6 @@
   venue: eurospw2017
   url: https://ieeexplore.ieee.org/abstract/document/7966966
   meta:
-  -
-      content: Stay Tuned!
-      url: http://personhood.online/
-      color: brown
-      icon: ★
 -
   title: Managing identities using blockchains and CoSi
   authors: lefkok-gasser-khoffi-jovanovic-gailly-bford
