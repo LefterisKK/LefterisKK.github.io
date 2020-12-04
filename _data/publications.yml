@@ -11,19 +11,6 @@
       color: brown
       icon: ★
 -
-  title: 'Asynchronous Distributed Key Generation for Computationally- Secure Randomness, Consensus, and Threshold Signatures.'
-  authors: lefkok-malkhi-sasha
-  venue: ccs2020
-  url: https://eprint.iacr.org/2019/1015
--
-  title: ' Rethinking General-Purpose Decentralized Computing'
-  authors: alpeq-lefkokeq-fragkouli-bford
-  venue: hotos2019
--
-  title: ' Divide and Scale: Formalization of Distributed Ledger Sharding Protocols (Alphabetical) ' 
-  authors: zeta-lefkok-wattenhofer
-  url: https://arxiv.org/abs/1910.10434
--
   title: 'Brick: Asynchronous State Channels (Alphabetical)'  
   authors: zeta-lefkok-wattenhofer
   venue: fc2021
@@ -39,6 +26,19 @@
   authors: zamyatin-musalbas-zindros-lefkok-morenosanchez-kiayias-knottenbelt
   venue: fc2021
   url: https://eprint.iacr.org/2019/1128
+-
+  title: 'Asynchronous Distributed Key Generation for Computationally- Secure Randomness, Consensus, and Threshold Signatures.'
+  authors: lefkok-malkhi-sasha
+  venue: ccs2020
+  url: https://eprint.iacr.org/2019/1015
+-
+  title: ' Rethinking General-Purpose Decentralized Computing'
+  authors: alpeq-lefkokeq-fragkouli-bford
+  venue: hotos2019
+-
+  title: ' Divide and Scale: Formalization of Distributed Ledger Sharding Protocols (Alphabetical) ' 
+  authors: zeta-lefkok-wattenhofer
+  url: https://arxiv.org/abs/1910.10434
 -
   title: 'Channels: Horizontal Scaling and Confidentiality on Permissioned Blockchains (Alphabetical) ' 
   authors: androulaki-cachin-decaro-lefkok
