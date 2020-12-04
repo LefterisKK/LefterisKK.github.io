@@ -48,6 +48,11 @@ ccs2020:
   year: 2020
   name: 27th ACM Conference on Computer and Communications Security
   url: https://www.sigsac.org/ccs/CCS2020/index.html#
+fc2021:
+  slug: FC
+  year: 2021
+  name: 25th International Conference on Financial Cryptography and Data Security 2021
+  url: https://fc21.ifca.ai/
 vldb2021:
   slug: VLDB
   year: 2021

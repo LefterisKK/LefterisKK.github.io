@@ -26,6 +26,7 @@
 -
   title: 'Brick: Asynchronous State Channels (Alphabetical)'  
   authors: zeta-lefkok-wattenhofer
+  venue: fc2021
   url: https://arxiv.org/abs/1905.11360
   meta:
   -
@@ -34,12 +35,9 @@
       color: brown
       icon: ★
 -
-  title: 'Robust and Scalable Consensus for Sharded Distributed Ledgers'
-  authors: lefkok-empty
-  url: https://eprint.iacr.org/2019/676
--
   title: ' Sok: Communication across distributed ledgers'
   authors: zamyatin-musalbas-zindros-lefkok-morenosanchez-kiayias-knottenbelt
+  venue: fc2021
   url: https://eprint.iacr.org/2019/1128
 -
   title: 'Channels: Horizontal Scaling and Confidentiality on Permissioned Blockchains (Alphabetical) ' 
