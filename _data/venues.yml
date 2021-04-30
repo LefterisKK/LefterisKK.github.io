@@ -58,5 +58,9 @@ vldb2021:
   year: 2021
   name: 47th International Conference on Very Large Data Bases
   url: https://vldb.org/2021/
-
+podc2021:
+  slug: PODC
+  year: 2021
+  name: ACM Symposium on Principles of Distributed Computing
+  url: https://www.podc.org/podc2021/
 

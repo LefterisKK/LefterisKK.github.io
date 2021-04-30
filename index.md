@@ -4,7 +4,7 @@ layout: default
 ## About
 
 I am a Research Scientist at **[Novi](https://ch.linkedin.com/in/eleftherios-kokoris-kogias-52836274)** working on Decentralized Systems, Applied Cryptography and Distributed Computing. 
-I will be joininig **[IST Austria](https://ist.ac.at/en/research/kokoris-group/)** as an Assistant Professor in September 2021 (positions available at all levels).
+I will be joininig **[IST Austria](https://ist.ac.at/en/research/kokoris-group/)** as an Assistant Professor in Fall 2021.
 
 I received my Ph.D. in Computer Science from  **[EPFL](https://people.epfl.ch/eleftherios.kokoriskogias?lang=en)**, 
 and my MEng in Electrical and Computer Engineering from the **[National Technical University of Athens](https://www.ece.ntua.gr/en)**.
@@ -16,6 +16,7 @@ I am working on building a scalable and robust infrastructure for the future dec
 {% include bibliography.html %}
 
 ## Awards and Honors
+*   EPFL Thesis Distinction 2020
 *   EPFL IC School Appreciation for Exceptional Performance 2018
 *   [IBM PhD Fellowship 2018-2020](https://actu.epfl.ch/news/a-second-ibm-fellowship-awarded-to-lefteris-koko-2/)
 *   EPFL IC School Appreciation for Exceptional Performance 2017

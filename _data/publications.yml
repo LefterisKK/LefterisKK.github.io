@@ -34,12 +34,12 @@
   authors: zamyatin-musalbas-zindros-lefkok-morenosanchez-kiayias-knottenbelt
   venue: fc2021
   url: https://eprint.iacr.org/2019/1128
--
-  title: 'Reactive Key-Loss Protection in Blockchains (Alphabetical)'  
-  authors: sam-kostas-panagiotis-riyaz-irakliy-lefkok-joshua-david-tim
-  venue: fcw2021
-  url: https://eprint.iacr.org/2021/289.pdf
-  meta:
+#-
+#  title: 'Reactive Key-Loss Protection in Blockchains (Alphabetical)'  
+#  authors: sam-kostas-panagiotis-riyaz-irakliy-lefkok-joshua-david-tim
+#  venue: fcw2021
+#  url: https://eprint.iacr.org/2021/289.pdf
+#  meta:
 -
   title: 'Asynchronous Distributed Key Generation for Computationally- Secure Randomness, Consensus, and Threshold Signatures.'
   authors: lefkok-malkhi-sasha
@@ -130,19 +130,3 @@
 
 
 
-
-
-#  title: Mechanism Design via Optimal Transport
-#  authors: daskalakis-deckelbaum-tzamos
-#  venue: ec2013
-#  url: http://arxiv.org/abs/1503.01958
-#  meta:
-#    -
-#      content: Best Paper and Best Student Paper Award
-#     url: http://www.sigecom.org/awards.html
-#      color: brown
-#      icon: ★
-#-
-#  title: 'Capacitated Dynamic Programming: Faster Knapsack and Graph Algorithms'
-#  authors: axiotis-tzamos
-#  url: https://arxiv.org/abs/1802.06440
