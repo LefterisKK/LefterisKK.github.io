@@ -1,4 +1,17 @@
 ---
+
+-
+  title: 'All You Need is DAG( Alphabetical)'  
+  authors: idit-lefkok-oded-sasha
+  venue: podc2021
+  url: https://arxiv.org/abs/2102.08325
+  meta:
+-
+  title: 'Brief Announcement: Be Prepared When Network Goes Bad: An Asynchronous View-Change Protocol (Alphabetical)'  
+  authors: rati-lefkok-sasha-daniel
+  venue: podc2021
+  url: https://arxiv.org/abs/2103.03181
+  meta:
 -
   title: 'CALYPSO: Private Data Management for Decentralized Ledgers'
   authors: lefkok-alp-gasser-jovanovic-syta-bford
@@ -21,6 +34,12 @@
   authors: zamyatin-musalbas-zindros-lefkok-morenosanchez-kiayias-knottenbelt
   venue: fc2021
   url: https://eprint.iacr.org/2019/1128
+-
+  title: 'Reactive Key-Loss Protection in Blockchains (Alphabetical)'  
+  authors: sam-kostas-panagiotis-riyaz-irakliy-lefkok-joshua-david-tim
+  venue: fcw2021
+  url: https://eprint.iacr.org/2021/289.pdf
+  meta:
 -
   title: 'Asynchronous Distributed Key Generation for Computationally- Secure Randomness, Consensus, and Threshold Signatures.'
   authors: lefkok-malkhi-sasha
