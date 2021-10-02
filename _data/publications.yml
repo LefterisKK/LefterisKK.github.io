@@ -1,7 +1,47 @@
 ---
-
 -
-  title: 'All You Need is DAG( Alphabetical)'  
+  title: 'Jolteon and Ditto: Network-Adaptive Efficient Consensus with Asynchronous Fallback (Alphabetical)'  
+  authors: rati-lefkok-alberto-sasha-daniel
+  url: https://sonnino.com/papers/jolteon-and-ditto.pdf
+  meta:
+  -
+      content: Part of DiemBFT
+      url: https://developers.diem.com/docs/technical-papers/state-machine-replication-paper/
+      color: brown
+      icon: ★
+-
+  title: 'Be Aware of Your Leaders (Alphabetical)'  
+  authors: shir-rati-lefkok-zekun-dahlia-alberto-sasha
+  url: https://sonnino.com/papers/leader-reputation.pdf
+  meta:
+  -
+      content: Part of DiemBFT
+      url: https://developers.diem.com/docs/technical-papers/state-machine-replication-paper/
+      color: brown
+      icon: ★
+-
+  title: 'Narwhal and Tusk: A DAG-based Mempool and Efficient BFT Consensus (Alphabetical)'  
+  authors: george-lefkok-alberto-sasha
+  url: https://arxiv.org/abs/2102.08325
+  meta:
+  -
+      content: Used by Celo
+      url: https://medium.com/celoorg/celo-sets-sights-on-becoming-fastest-evm-chain-through-collaboration-with-mysten-labs-e88b426aee83 
+      color: brown
+      icon: ★
+  -
+      content: Used by Sommelier
+      url: https://sommelier.finance/blog/sommelier-partners-with-mysten-labs-to-make-sommelier-and-all-cosmos-blockchains-the-fastest-protocols-on-the-planet
+      color: brown
+      icon: ★
+-
+  title: 'Brief Announcement: Be Prepared When Network Goes Bad: An Asynchronous View-Change Protocol (Alphabetical)'  
+  authors: rati-lefkok-sasha-daniel
+  venue: podc2021
+  url: https://arxiv.org/abs/2103.03181
+  meta:
+-
+  title: 'All You Need is DAG (Alphabetical)'  
   authors: idit-lefkok-oded-sasha
   venue: podc2021
   url: https://arxiv.org/abs/2102.08325
@@ -19,10 +59,16 @@
   url: https://eprint.iacr.org/2018/209.pdf
   meta:
   -
-      content: Used by Swisscom
-      url: https://research.swisscom.ai/blog/blockchain-car-maintenance-history/
+      content: Used by ByzGen
+      url: https://www.byzgen.com/
       color: brown
       icon: ★
+  -
+      content: Used by SunBioscience
+      url: https://sunbioscience.ch
+      color: brown
+      icon: ★
+
 -
   title: 'Brick: Asynchronous State Channels (Alphabetical)'  
   authors: zeta-lefkok-wattenhofer-zindros
@@ -34,12 +80,17 @@
   authors: zamyatin-musalbas-zindros-lefkok-morenosanchez-kiayias-knottenbelt
   venue: fc2021
   url: https://eprint.iacr.org/2019/1128
-#-
-#  title: 'Reactive Key-Loss Protection in Blockchains (Alphabetical)'  
-#  authors: sam-kostas-panagiotis-riyaz-irakliy-lefkok-joshua-david-tim
-#  venue: fcw2021
-#  url: https://eprint.iacr.org/2021/289.pdf
-#  meta:
+-
+  title: 'KELP: Reactive Key-Loss Protection in Blockchains (Alphabetical)'  
+  authors: sam-kostas-panagiotis-riyaz-irakliy-lefkok-joshua-david-tim
+  venue: fcw2021
+  url: https://eprint.iacr.org/2021/289.pdf
+  meta:
+  -
+      content: Used by Celo
+      url: https://medium.com/celoorg/celo-sets-sights-on-becoming-fastest-evm-chain-through-collaboration-with-mysten-labs-e88b426aee83 
+      color: brown
+      icon: ★
 -
   title: 'Asynchronous Distributed Key Generation for Computationally- Secure Randomness, Consensus, and Threshold Signatures.'
   authors: lefkok-malkhi-sasha
@@ -87,7 +138,7 @@
       color: brown
       icon: ★
 -
-  title: Scalable bias-resistant distributed randomness
+  title: 'Scalable bias-resistant distributed randomness'
   authors: syta-jovanovic-lefkok-gailly-gasser-khoffi-fischer-bford
   venue: sp2017
   url: https://ieeexplore.ieee.org/abstract/document/7958592/
@@ -104,7 +155,7 @@
   url: https://ieeexplore.ieee.org/abstract/document/7966966
   meta:
 -
-  title: Managing identities using blockchains and CoSi
+  title: 'Managing identities using blockchains and CoSi'
   authors: lefkok-gasser-khoffi-jovanovic-gailly-bford
   url: https://infoscience.epfl.ch/record/220210/files/1_Managing_identities_bryan_ford_etc.pdf
   venue: HPETs2016 
@@ -117,7 +168,7 @@
   venue: etfa2016
   url: https://ieeexplore.ieee.org/abstract/document/7733612
 -
-  title: Enhancing bitcoin security and performance with strong consistency via collective signing
+  title: 'Enhancing bitcoin security and performance with strong consistency via collective signing'
   authors: lefkok-jovanovic-gailly-khoffi-gasser-bford
   venue: sec2016
   url: https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_kokoris-kogias.pdf

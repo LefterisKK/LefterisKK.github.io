@@ -53,6 +53,11 @@ fc2021:
   year: 2021
   name: 25th International Conference on Financial Cryptography and Data Security 2021
   url: https://fc21.ifca.ai/
+fcw2021:
+  slug: FCW
+  year: 2021
+  name: Workshops of the 25th International Conference on Financial Cryptography and Data Security 2021
+  url: https://fc21.ifca.ai/
 vldb2021:
   slug: VLDB
   year: 2021
